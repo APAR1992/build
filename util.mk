@@ -1,4 +1,4 @@
-include ${PORT_BUILD}/apps.conf
+include ${PORT_DEVICE}/apps.conf
 
 ${shell mkdir -p ${PORT_DEVICE}/apps}
 ${shell mkdir -p ${PORT_DEVICE}/update/system}
